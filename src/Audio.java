@@ -35,4 +35,12 @@ public class Audio {
     public void setClassification(int classification) {
         this.classification = classification;
     }
+
+    public void like(){
+        this.totalLikes++;
+    }
+
+    public void reproduces(){
+        this.totalReproductions++;
+    }
 }
