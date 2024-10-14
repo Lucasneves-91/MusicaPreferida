@@ -1,3 +1,5 @@
+package song;
+
 public class Music extends Audio{
     private String album;
     private String singer;
