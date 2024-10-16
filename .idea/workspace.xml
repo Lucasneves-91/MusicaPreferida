@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e489254e-5846-4514-a3a1-4b7ea06eb204" name="Changes" comment="Created a loop to simulate a large number of plays and likes.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/song/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/Music.java" afterDir="false" />
+    <list default="true" id="e489254e-5846-4514-a3a1-4b7ea06eb204" name="Changes" comment="Creating an override of the get Rating method in the Music class">
+      <change beforePath="$PROJECT_DIR$/src/song/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/song/Podcast.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728936910951</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creating an override of the get Rating method in the Music class">
+      <option name="closed" value="true" />
+      <created>1729099525823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729099525823</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +115,7 @@
     <MESSAGE value="Created two non-return methods: like() and reproduce(), which will increment the variables totalCurtidas and totalReproducoes" />
     <MESSAGE value="Created two classes Music and Podcast" />
     <MESSAGE value="Created a loop to simulate a large number of plays and likes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a loop to simulate a large number of plays and likes." />
+    <MESSAGE value="Creating an override of the get Rating method in the Music class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating an override of the get Rating method in the Music class" />
   </component>
 </project>
