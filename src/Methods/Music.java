@@ -1,4 +1,4 @@
-package song;
+package Methods;
 
 public class Music extends Audio{
     private String album;

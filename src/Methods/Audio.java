@@ -1,4 +1,4 @@
-package song;
+package Methods;
 
 public class Audio {
     private String title;

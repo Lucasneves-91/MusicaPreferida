@@ -1,4 +1,4 @@
-package song;
+package Methods;
 
 public class Podcast extends Audio {
     private String presenter;
