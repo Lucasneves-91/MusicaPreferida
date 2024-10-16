@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e489254e-5846-4514-a3a1-4b7ea06eb204" name="Changes" comment="Creating an override of the get Classification method in the Poacast class">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Favorites.java" afterDir="false" />
+    <list default="true" id="e489254e-5846-4514-a3a1-4b7ea06eb204" name="Changes" comment="Project completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/song/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Audio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/song/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Music.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/song/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Podcast.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729100095768</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Project completed">
+      <option name="closed" value="true" />
+      <created>1729102104640</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729102104640</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +133,7 @@
     <MESSAGE value="Created a loop to simulate a large number of plays and likes." />
     <MESSAGE value="Creating an override of the get Rating method in the Music class" />
     <MESSAGE value="Creating an override of the get Classification method in the Poacast class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating an override of the get Classification method in the Poacast class" />
+    <MESSAGE value="Project completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project completed" />
   </component>
 </project>

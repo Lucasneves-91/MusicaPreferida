@@ -1,6 +1,6 @@
-import Methods.Favorites;
-import Methods.Music;
-import Methods.Podcast;
+import Models.Favorites;
+import Models.Music;
+import Models.Podcast;
 
 public class Main {
     public static void main(String[] args) {

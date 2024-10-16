@@ -1,4 +1,4 @@
-package Methods;
+package Models;
 
 public class Audio {
     private String title;

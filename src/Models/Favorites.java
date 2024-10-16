@@ -1,4 +1,4 @@
-package Methods;
+package Models;
 
 public class Favorites {
     public void includes (Audio audio) {
